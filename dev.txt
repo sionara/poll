@@ -1,0 +1,4 @@
+virtual env name: website1
+- django was installed in virtual env directory. is this right??
+- how to change name of virtual env: by default, not supported. recommended to remove current and make
+a new env with proper name. To do so, first save the requirements on a requriment.txt folder.
